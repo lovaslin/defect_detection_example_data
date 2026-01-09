@@ -16,4 +16,5 @@ From the `example` directory, run the `get_source_images.sh` script
 cd example
 ./get_source_images.sh
 ```
-The source inmages needed to run the example script should have been automatically downladed from this repository and moved under the right directory.
+The source inmages needed to run the example script should have been automatically downladed from this repository and moved under the right directory.  
+Total dataset size : 72.1 MB
